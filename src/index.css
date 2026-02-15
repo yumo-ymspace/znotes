@@ -1,8 +1,4 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-  background-color: #09090b;
-  color: #fff;
-}
+3.  **Push Changes**: Upload these changes to GitHub (or redeploy to Vercel).
